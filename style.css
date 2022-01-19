@@ -1,0 +1,55 @@
+h1 {
+    color: white;
+    /* itens da aula c51 parte final*/
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5rem;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,
+h2 {
+    text-align: center;
+    /* itens da aula c51*/
+    color: #fff;
+}
+
+
+/* aula c 51 */
+body {
+    /* background-color: rgb(128, 128, 128);*/
+    background-color: #808080;
+
+}
+
+h2 {
+    color: #fff;
+    font-size: 50px;
+    /* itens da aula c51 parte final*/
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
